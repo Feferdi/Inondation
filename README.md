@@ -11,6 +11,7 @@ Librairies nécessaires
 
 .Scipy
  pip install scipy
+ 
 .Matplotlib
  pip install matplotlib
 

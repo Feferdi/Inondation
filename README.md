@@ -25,4 +25,4 @@ annuelles comme entrées à notre modèle ML et si elles induisent ou non une in
 Nous formons et sauvegardons notre modèle (en fonction de certaines valeurs de seuil de précipitations quotidiennes dans le jeu de données)
 
 Notre approche principale de ce problème est la classification binaire, utilisant des algorithmes simples en apprentissage automatique (régression linéaire ou régression logistique) et xgboost(Extreme Gradient Boosting) pour améliorer les performance 
-de notre modèle. La précision peut être augmentée en ajoutant plus de features telles que le type de terrain, sa position, etc.
+de notre modèle. La précision peut être augmentée en ajoutant plus de features telles que le type de terrain, sa position, etc...
